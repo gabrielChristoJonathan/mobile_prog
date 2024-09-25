@@ -17,7 +17,7 @@ read lisensi_software
 echo "biaya operasional : "
 read operasional
 
-echo "anggaran awalan proyek yang disediakan : "
+echo "anggaran awalan proyek yang disediakan :  "
 read anggaran_yang_ada
 
 echo "--------------------------------------------"
